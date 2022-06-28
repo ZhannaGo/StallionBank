@@ -1,0 +1,27 @@
+div{
+    position: absolute
+    
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+}
+body{
+    background-image: url('b.jpg');
+}
+
+
+#bank-text{
+    color:black;
+    text-align: center;
+    font-size: 27px;
+    background-color: white;
+}
+#data{
+    color: aqua;
+}
+#table{
+    color: red;
+}
+.card-body{
+ border-style:solid red ;
+}
