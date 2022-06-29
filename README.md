@@ -8,7 +8,7 @@
 
 ###### Install the dependicies:
 • npm install express cors
-# • npm install mongodb
+• npm install mongodb
 
 ###### Framework/ Libaries Used
 Html, Css, Express, React, Node
