@@ -4,7 +4,7 @@
 #### https://stallionbank.herokuapp.com/#/
 ##### Installation: 
 ###### • npm install
-####### • npm init
+• npm init
 ######## Install the dependicies:
 ######### • npm install express cors
 ########## • npm install mongodb
