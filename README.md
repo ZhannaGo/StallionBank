@@ -5,8 +5,8 @@
 ##### Installation: 
 • npm install
 • npm init
-######Install the dependicies:
+Install the dependicies:
 • npm install express cors
 • npm install mongodb
-####### Framework/ Libaries Used
+Framework/ Libaries Used
 Html, Css, Express, React, Node
